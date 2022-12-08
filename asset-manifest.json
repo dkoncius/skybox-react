@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dkoncius/skybox-react/static/css/main.f4f80d9b.css",
+    "main.js": "/dkoncius/skybox-react/static/js/main.d1563dd2.js",
+    "index.html": "/dkoncius/skybox-react/index.html",
+    "main.f4f80d9b.css.map": "/dkoncius/skybox-react/static/css/main.f4f80d9b.css.map",
+    "main.d1563dd2.js.map": "/dkoncius/skybox-react/static/js/main.d1563dd2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4f80d9b.css",
+    "static/js/main.d1563dd2.js"
+  ]
+}
